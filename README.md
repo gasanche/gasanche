@@ -1,1 +1,1 @@
-Ya esta Dannyel :v
+Hello, I'm Camila Sanchez, a passionate programmer currently diving deep into the world of C language while pursuing a degree in Business Administration at EAE Business School. My journey in programming is being shaped by my studies at 42 Barcelona, a renowned institution known for its innovative approach to coding education.
